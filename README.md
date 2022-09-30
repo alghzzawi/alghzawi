@@ -14,7 +14,7 @@
 * HTML.5
 * CSS3
 
-### I specialize in used react, bootstrap, heroku, netlify, node.js, mongoDB and mySQL.
+### I specialize in used react, bootstrap, heroku, netlify, node.js, mongoDB and mySQL. and the meta-skill I have is problem solving.
 
 ### I'm interested in learning backend and frontend, I'm learning and developing my skills.
 
