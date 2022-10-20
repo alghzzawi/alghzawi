@@ -48,4 +48,3 @@
 <p>&nbsp;<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=alghzzawi&show_icons=true&locale=en" alt="alghzzawi" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alghzzawi&" alt="alghzzawi" /></p>
-
