@@ -1,3 +1,7 @@
+
+
+
+
 <h1 align="center">Hi 👋, I'm mohammad alghzawi</h1>
 
 <br>
@@ -7,14 +11,14 @@
 <br>
 
 <link rel="stylesheet" href="./style.css">
-<div class="cube-wrapper">
+<div align="center" target="blank" alt="alghzzawi" class="cube-wrapper">
     <div class="cube">
-        <div class="item one"></div>
-        <dec class="item two" ></dec>
-        <dec class="item three" ></dec>
-        <dec class="item four" ></dec>
-        <dec class="item five" ></dec>
-        <dec class="item six" ></dec>
+        <div  class="item one"></div>
+        <div class="item two" ></div>
+        <div class="item three" ></div>
+        <div class="item four" ></div>
+        <div class="item five" ></div>
+        <div class="item six" ></div>
     </div>
 </div>
 
@@ -49,6 +53,6 @@
 
 <p><img align="center" width="450" src="https://github-readme-stats.vercel.app/api/top-langs?username=alghzzawi&show_icons=true&locale=en&layout=compact" alt="alghzzawi" /></p>
 
-<p>&nbsp;<img align="center" width="450" src="https://github-readme-stats.vercel.app/api?username=alghzzawi&show_icons=true&locale=en" alt="alghzzawi" /></p>
+<p><img align="center" width="450" src="https://github-readme-stats.vercel.app/api?username=alghzzawi&show_icons=true&locale=en" alt="alghzzawi" /></p>
 
 <p><img align="center" width="450" src="https://github-readme-streak-stats.herokuapp.com/?user=alghzzawi&" alt="alghzzawi" /></p>
