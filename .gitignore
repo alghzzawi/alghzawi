@@ -4,9 +4,14 @@
 /node_modules
 /.pnp
 .pnp.js
-/index.html
-/style.css
-/MyImage
+
+# Ignore artifacts: 
+build 
+coverage
+
+# Ignore all HTML files:
+*.html 
+*.css
 
 # testing
 /coverage
