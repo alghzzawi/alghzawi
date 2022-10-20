@@ -1,6 +1,28 @@
 <h1 align="center">Hi 👋, I'm mohammad alghzawi</h1>
 
-<div style="width:100%;height:0;padding-bottom:52%;position:relative;"><iframe src="https://giphy.com/embed/coxQHKASG60HrHtvkt" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/coxQHKASG60HrHtvkt">via GIPHY</a></p>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<link rel="stylesheet" href="./style.css">
+<div class="cube-wrapper">
+    <div class="cube">
+        <div class="item one"></div>
+        <dec class="item two" ></dec>
+        <dec class="item three" ></dec>
+        <dec class="item four" ></dec>
+        <dec class="item five" ></dec>
+        <dec class="item six" ></dec>
+    </div>
+</div>
+
+<br>
+<br>
+<br>
+<br>
+<br>
 
 <h3 align="center">I am 22 years old, I graduate from LTUC, Department of ASAC with a mager of artificial intelligence engineer</h3>
 <h3 align="center"> I specialize in used react, bootstrap, heroku, netlify, node.js, mongoDB and mySQL. and the meta-skill I have is problem solving.</h3>
